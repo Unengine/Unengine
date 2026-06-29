@@ -3,7 +3,8 @@
 
 ## 🌐 Languages (Human)
 - **Korean:** Native Proficiency
-- **English:** Professional Working Proficiency (Capable of technical discussion and global open-source collaboration)
+- **English:** Professional Technical Reading & Conversational Proficiency (Capable of technical discussion and global open-source collaboration)
+- **Japanese:** Conversational Proficiency (Casual/Gaming)
 
 # 🔭 I’m currently working on ...
 ### 🌙🕺Dedicating to the LR2(Lunatic Rave 2) ecosystem
