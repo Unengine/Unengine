@@ -1,6 +1,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unengine&show_icons=true&theme=chartreuse-dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unengine&layout=compact&theme=chartreuse-dark)
 
+## 🌐 Languages (Human)
+- **Korean:** Native Proficiency
+- **English:** Professional Working Proficiency (Capable of technical discussion and global open-source collaboration)
+
 # 🔭 I’m currently working on ...
 ### 🌙🕺Dedicating to the LR2(Lunatic Rave 2) ecosystem
 - Owner of [LR2Nexus](https://github.com/Unengine/LR2Nexus)
