@@ -14,7 +14,7 @@
 > - [View Repository](https://github.com/unengine/LR2Nexus)| [Live Demo/Releases](https://github.com/Unengine/LR2Nexus/releases)
 
 ---
-- Owner of [LR2Nexus](https://github.com)
+- Owner of [LR2Nexus](https://github.com/unengine/LR2Nexus)
 - An active contributor of [OpenLR2](https://github.com/GOMazk/OpenLR2)
 - Former senior developer of [Nine Chronicles](https://github.com/planetarium/NineChronicles) and [lib9c](https://github.com/planetarium/lib9c)
 
