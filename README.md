@@ -23,5 +23,5 @@
   - **Audio Engine & Hardware Abstraction:** Grasp of software-hardware abstraction layers, with hands-on experience utilizing **FMOD binaries** for dynamic, real-time sound resource generation and driver-level stream management.
 
 - **Avalonia UI**
-  - **Rapid Tech Adaptation:** Zero-to-one implementation of a production-ready, cross-platform desktop launcher within a tight two-week timeframe. (e.g. [LR2Nexus](https://github.com/Unengine/LR2Nexus))
+  - **Rapid Tech Adaptation:** Zero-to-one implementation of a production-ready, cross-platform desktop launcher within a tight one-week timeframe. (e.g. [LR2Nexus](https://github.com/Unengine/LR2Nexus))
   - **Community-Centric Development:** Designed and deployed a highly functional, user-focused UI/UX tailored for active community distribution.
