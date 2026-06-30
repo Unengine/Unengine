@@ -24,7 +24,7 @@
     - Former senior programmer of [Nine Chronicles](https://github.com/planetarium/NineChronicles) and [lib9c](https://github.com/planetarium/lib9c)
   - **Core Architecture & Leadership:** Led core game logic design, large-scale codebase refactoring, and technical development direction.
   - **Backend Integration:** Developed C#-based backend systems, including database management and class structures for blockchain transaction integration.
-  - **Native Audio Integration:** Successfully integrated custom C++ audio binaries into a C# rhythm game project, managing precise synchronization.
+  - **FMOD Audio Integration:** Successfully integrated FMOD into a C# rhythm game project, managing precise synchronization and enhancing output latency.
 
 ### 🌱 Intermediate Level
 - **C++**
